@@ -29,4 +29,4 @@ Final prediction is displayed as Real or Fake
 Datasets and training videos are not uploaded due to large size.
 
 ## Author
-Snehal Tupe
+Sumant Dhonde
